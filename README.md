@@ -1,6 +1,6 @@
 <h1> Star-wars </h1>
 
- <a href='#'> click here to see this app<a/>
+ <a href='https://star-wars-tawny.vercel.app/starships/'> click here to see this app<a/>
  
 <h3>Tech Stack: </h3>
 <ul>
