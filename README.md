@@ -1,4 +1,6 @@
 <h1> Star-wars </h1>
+
+ <a href='#'> click here to see this app<a/>
  
 <h3>Tech Stack: </h3>
 <ul>
@@ -8,7 +10,7 @@
 </ul>
 
 <h3><i> Screenshot of this mini-app </i></h3>
-<img src='![SW](https://user-images.githubusercontent.com/63980696/120088748-8de7c380-c0fc-11eb-8334-3f7ac1f63d8a.png)'/>
+<img src='https://user-images.githubusercontent.com/63980696/120088748-8de7c380-c0fc-11eb-8334-3f7ac1f63d8a.png'/>
 
 
 <h3> API: </h3>
